@@ -3,13 +3,16 @@ This app provides user the history stock price of each stock and the predicted f
 
 ## App Function Introduction
 ### Home Page
-![overview](/Images/overview.png)
+<img src="Images/overview.png" alt="overview" height="500" width="auto"  > 
+
 ### Stock Price and Predicted Price
-![price](/Images/stock_price.png)
+<img src="Images/stock_price.png" alt="stock price" height="500" width="auto"  > 
+
 ### Questionaire
-![questionaire](/Images/questionaire.png)
+<img src="Images/questionaire.png" alt="questionaire" height="500" width="auto"  > 
+
 ### Investment Portfolios
-![portfolios](/Images/investment_portfolios.png)
+<img src="Images/investment_portfolios.png" alt="investment portfolios" height="500" width="auto"  > 
 
 ## Demo Video
 https://drive.google.com/file/d/1bxUb79VNQB1vkgSgqq5QbThCV8sELbB-/view?usp=sharing
